@@ -31,7 +31,7 @@
 
 ### Current Project
 
-[![The Barnhouse Killer on Steam](https://img.shields.io/badge/Wishlist-The%20Barnhouse%20Killer-black?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/your-app-id)
+[![The Barnhouse Killer on Steam](https://img.shields.io/badge/Wishlist-The%20Barnhouse%20Killer-black?style=for-the-badge&logo=steam)]([https://store.steampowered.com/app/your-app-id](https://store.steampowered.com/app/2991600/The_Barnhouse_Killer/))
 
 ---
 
