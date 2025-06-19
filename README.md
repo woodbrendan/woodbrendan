@@ -6,7 +6,7 @@
 
 ---
 
-### Tech i Like
+### Favourite Tech
 
 [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
@@ -14,15 +14,10 @@
 [![dart](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
 [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
-[![html](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![js](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![ts](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-[![mysql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![sqlite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 [![aws](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
