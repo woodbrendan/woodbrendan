@@ -6,7 +6,7 @@
 
 ---
 
-### Tech I Use
+### Tech i Like
 
 [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
@@ -40,7 +40,7 @@
 
 ---
 
-### Offline Life
+### Outside Dev Life
 
 ![Golf](https://img.shields.io/badge/Golf-0B6623?style=flat-square)
 ![MMA](https://img.shields.io/badge/MMA-8B0000?style=flat-square)
