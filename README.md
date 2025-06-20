@@ -25,7 +25,7 @@
 [![blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 [![postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 [![unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-[![linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![linux](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
 ---
 
