@@ -15,7 +15,7 @@
 [![Dart](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![VS Code](https://skillicons.dev/icons?i=vscode)]([https://github.com/tandpfun/skill-icons](https://skillicons.dev))
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
